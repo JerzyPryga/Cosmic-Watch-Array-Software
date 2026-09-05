@@ -1,0 +1,11 @@
+{
+	"app_version":1,
+	"device_model":"CW0.5",
+	"device_type":"CWarray",
+	"system_version":"OS.0.5",
+	"device_id":"1",
+	"delta_time":100,
+	"on_time":0,
+	"other_string":"",
+	"timestamp":1671028327211
+}
