@@ -3,7 +3,7 @@
 #ifndef ESP_FUNCTIONS_HH
 #define ESP_FUNCTIONS_HH
 
-#include "ESP32_libs.h"
+#include "ESP32_lib.h"
 
 /*----------Attempt Internet conncetion via WiFi-------------*/
 JsonDocument WiFiTry(string WiFi_name, string WiFi_pass) {
